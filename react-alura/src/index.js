@@ -5,7 +5,7 @@ import AutorBox from './componentes/Autor';
 import LivroAdmin from './componentes/Livro';
 import Home from './componentes/Home';
 import './index.css';
-import { BrowserRouter as Router, Route, Switch, Link } from 'react-router-dom';
+import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 import registerServiceWorker from './registerServiceWorker';
 
 ReactDOM.render((
